@@ -1,2 +1,0 @@
-# Microcontrolados
-Trabajo de micro
